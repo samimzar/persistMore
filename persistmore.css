@@ -627,3 +627,10 @@ pre {
       margin-top: 2px;
       margin-right: -180px;
       width: 120px; } }
+.bigspan {
+  color: black;
+  background-color: rgba(45, 45, 45, 0.5);
+}
+h2 {
+  font-size: 18px;
+}
