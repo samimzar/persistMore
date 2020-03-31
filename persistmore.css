@@ -47,14 +47,22 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
-  margin-bottom: 15px; }
-
+  margin-bottom: 15px;
+}
+/*
+Change color when hover over
+*/
+h2:hover {
+  color: #1e90ff !important;
+}
 /**
  * Images
  */
 img {
   max-width: 100%;
-  vertical-align: middle; }
+  vertical-align: middle;
+  opacity: 0.6;
+}
 
 /**
  * Figures
@@ -628,8 +636,8 @@ pre {
       margin-right: -180px;
       width: 120px; } }
 .bigspan {
-  color: black;
-  background-color: rgba(45, 45, 45, 0.5);
+  color: gray;
+  background-color: rgba(45, 45, 45, 0.1);
 }
 h2 {
   font-size: 18px;
