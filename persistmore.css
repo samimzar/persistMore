@@ -640,5 +640,9 @@ pre {
   background-color: rgba(45, 45, 45, 0.1);
 }
 h2 {
+  position: relative;
   font-size: 18px;
+}
+a .fa-facebook {
+  float: right;
 }
