@@ -643,6 +643,13 @@ h2 {
   position: relative;
   font-size: 18px;
 }
-#facebook-icon {
-  float: center;
+.socialMediaIcons {
+  display: inline-block;
+}
+#instagram-icon #facebook-icon #youtube-icon #github-icon #twitter-icon{
+  width: 100px !important;
+}
+.fa-instagram .fa-facebook .fa-github .fa-youtube .fa-twitter {
+    font-size: 30px;
+    width: 80px;
 }
