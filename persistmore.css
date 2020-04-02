@@ -643,6 +643,6 @@ h2 {
   position: relative;
   font-size: 18px;
 }
-a .fa-facebook {
-  float: right;
+#facebook-icon {
+  float: center;
 }
