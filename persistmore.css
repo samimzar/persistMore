@@ -647,9 +647,9 @@ h2 {
   display: inline-block;
 }
 #instagram-icon #facebook-icon #youtube-icon #github-icon #twitter-icon{
-  width: 100px !important;
+  color: #1l1;
 }
 .fa-instagram .fa-facebook .fa-github .fa-youtube .fa-twitter {
-    font-size: 30px;
-    width: 80px;
+
+
 }
