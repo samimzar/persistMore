@@ -59,7 +59,7 @@ h2:hover {
  * Images
  */
 img {
-  max-width: 100%;
+  max-width: 50%;
   vertical-align: middle;
   opacity: 0.6;
 }
@@ -646,10 +646,8 @@ h2 {
 .socialMediaIcons {
   display: inline-block;
 }
-#instagram-icon #facebook-icon #youtube-icon #github-icon #twitter-icon{
-  color: #1l1;
-}
-.fa-instagram .fa-facebook .fa-github .fa-youtube .fa-twitter {
-
-
+.socialMediaIcons {
+  font-size: 80px;
+  margin-right:10px;
+  margin-top:60px;
 }
