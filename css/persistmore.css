@@ -646,8 +646,14 @@ h2 {
 .socialMediaIcons {
   display: inline-block;
 }
+.bigspan {
+  font-size: 11px !important;
+}
 .socialMediaIcons {
   font-size: 80px;
-  margin-right:10px;
+
   margin-top:60px;
+}
+.socialMediaIcons > a {
+  margin-right:25px;
 }
