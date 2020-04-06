@@ -299,7 +299,7 @@ pre {
     width: 50%;
     width: 50vw; } }
 .home .home-content {
-  padding: 120px 60px;
+  padding: 20px 20px;
   color: #308f93; }
   @media screen and (max-width: 600px) {
     .home .home-content {
@@ -308,7 +308,7 @@ pre {
     font-size: 28px;
     font-weight: 700;
     line-height: 1.2;
-    margin-bottom: 0; }
+    margin-bottom: 0px; }
   .home .home-content .label,
   .home .home-content h2 {
     display: block;
@@ -322,7 +322,7 @@ pre {
     display: block;
     font-size: 48px;
     line-height: 1.3;
-    margin: 30px 0 15px 0; }
+    margin: 10px 0 5px 0; }
     @media screen and (max-width: 600px) {
       .home .home-content .bigspan {
         font-size: 28px; } }
@@ -349,7 +349,7 @@ pre {
     width: 100%;
     border: 0px;
     border-top: 1px solid #CEECD2;
-    padding-top: 10px;
+    padding-top: 0px;
     border-spacing: 0; }
     .home .home-content .elsewhere-list td {
       padding: 5px 10px 5px 0;
@@ -652,8 +652,8 @@ h2 {
 .socialMediaIcons {
   font-size: 80px;
 
-  margin-top:60px;
+  margin-top:0px;
 }
 .socialMediaIcons > a {
-  margin-right:25px;
+  margin-right:77px;
 }
