@@ -60,8 +60,9 @@ h2:hover {
  */
 img {
   max-width: 50%;
+
   vertical-align: middle;
-  opacity: 0.6;
+  opacity: 0.7;
 }
 
 /**
@@ -264,6 +265,7 @@ pre {
   box-sizing: border-box; }
 .home .dot-tone-portrait {
   background-color: #f7f7f7;
+  background: linear-gradient(30deg, #CCFFFF,#DDEEFF, #FFCCCC);
   overflow: hidden; }
   .home .dot-tone-portrait img, .home .dot-tone-portrait canvas {
     object-fit: cover;
@@ -653,6 +655,7 @@ h2 {
   font-size: 80px;
 
   margin-top:0px;
+  margin-bottom: 0px;
 }
 .socialMediaIcons > a {
   margin-right:77px;
