@@ -1,4 +1,5 @@
 // face.js
+var img = $('.dot-tone-portrait img')[0];
 var img = document.querySelector('.dot-tone-portrait img');
 
 new BreathingHalftone( img, {

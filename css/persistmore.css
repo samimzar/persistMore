@@ -660,3 +660,7 @@ h2 {
 .socialMediaIcons > a {
   margin-right:77px;
 }
+.label {
+  background: linear-gradient(45deg, #FFCCCC, #308f93);
+
+}
