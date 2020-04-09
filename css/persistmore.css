@@ -665,3 +665,8 @@ h2 {
   background: linear-gradient(45deg, #FFCCCC, #308f93);
 
 }
+nav > ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
