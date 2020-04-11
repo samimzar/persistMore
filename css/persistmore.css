@@ -666,17 +666,20 @@ h2 {
 
 }
 nav > ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+  background-color: rgba(0,0,0, 0.5)
+  color: #f1f1f1;
+  width: 100%;
+  padding: 10px;
+  position: fixed;
+  top: 0;
 }
 
 #myVideo {
-  position: fixed;
+  position: relative;
   right: 0;
   bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
+  min-width: 20%;
+  min-height: 70%;
 }
 .content {
   position: fixed;
