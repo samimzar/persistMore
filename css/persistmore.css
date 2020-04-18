@@ -656,10 +656,18 @@ h2 {
   font-size: 80px;
 
   margin-top:0px;
-  margin-bottom: 0px;
-}
-.socialMediaIcons > a {
-  margin-right:70px;
+  margin-bottom: 0px;}
+  @media(max-width: 600px){
+    font-size: 40px;
+    margin-right: 10px;
+  }
+
+ .socialMediaIcons > a {
+  margin-right:70px;}
+  @media(max-width: 1500px) {
+    .socialMediaIcons > a {
+    margin-right: 10px ;
+    }
 }
 .label {
   background: linear-gradient(45deg, #FFCCCC, #308f93);
@@ -671,7 +679,7 @@ nav > ul {
   width: 100%;
   padding: 10px;
   position: fixed;
-  top: 0;
+  top: 0px;
 }
 
 #myVideo {
