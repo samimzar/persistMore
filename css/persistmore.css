@@ -658,8 +658,8 @@ h2 {
   margin-top:0px;
   margin-bottom: 0px;}
   @media(max-width: 600px){
-    font-size: 40px;
-    margin-right: 10px;
+    font-size : 40px;
+    margin-right : 10px;
   }
 
  .socialMediaIcons > a {
