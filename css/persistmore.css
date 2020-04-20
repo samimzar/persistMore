@@ -170,7 +170,7 @@ pre {
  * Icons
  */
 .icon > svg {
-  display: inline-block;
+  display: flex;
   width: 16px;
   height: 16px;
   vertical-align: middle; }
