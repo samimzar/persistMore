@@ -170,7 +170,7 @@ pre {
  * Icons
  */
 .icon > svg {
-  display: flex;
+  display: inline-block;
   width: 16px;
   height: 16px;
   vertical-align: middle; }
@@ -660,7 +660,7 @@ h2 {
 }
 .socialMediaIcons {
   font-size: 80px;
-
+  display: inline-table;
   margin-top:0px;
   margin-bottom: 0px;}
   @media(max-width: 600px){
