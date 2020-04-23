@@ -664,7 +664,7 @@ h2 {
   display: inline-table;
   margin-top:0px;
   margin-bottom: 0px;
-  justify-content: center;
+  flex-wrap: nowrap;
   }
   @media(max-width: 600px){
     font-size : 40px;
