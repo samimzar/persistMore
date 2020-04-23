@@ -659,10 +659,13 @@ h2 {
   font-size: 11px !important;
 }
 .socialMediaIcons {
+  display:flex;
   font-size: 80px;
   display: inline-table;
   margin-top:0px;
-  margin-bottom: 0px;}
+  margin-bottom: 0px;
+  justify-content: center;
+  }
   @media(max-width: 600px){
     font-size : 40px;
     margin-right : 10px;
