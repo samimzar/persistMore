@@ -659,7 +659,8 @@ h2 {
   font-size: 11px !important;
 }
 .socialMediaIcons {
-  display:flex;
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(10px,fr));
   font-size: 80px;
   display: inline-table;
   margin-top:0px;
@@ -672,7 +673,8 @@ h2 {
   }
 
  .socialMediaIcons > a {
-  margin-right:70px;}
+  margin-right:70px;
+}
   @media(max-width: 1500px) {
     .socialMediaIcons > a {
     margin-right: 10px ;
